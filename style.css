@@ -1,0 +1,37 @@
+h1{
+    font-family:  Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+
+    font-style: italic;
+    margin-top:40px;
+    margin-left: 40px;
+
+    color:rgb(26, 56, 228)
+}
+
+h2{
+    font-family:  Helvetica, sans-serif;
+    font-size:medium;
+
+    font-style: italic;
+    text-align: right;
+    margin-top:0;
+    margin-right: 370px;
+
+    color: rgb(26, 56, 228);
+}
+
+a:visited{
+    color:rgb(87, 87, 233);
+}
+
+a:hover{
+    color:rgb(166, 183, 240)
+}
+
+#sketch-holder{
+    
+    margin-left: 50px;
+    
+}
